@@ -1,0 +1,11 @@
+zhao:300
+samantha:270
+:260
+kate:250
+Kiearn:230
+mirra:220
+kate:200
+sam:170
+manaswi:70
+kate:20
+Kieran:260
